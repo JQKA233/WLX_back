@@ -1,0 +1,3 @@
+/home/dar/Desktop/WLX2022-master/Test/CameraAdjustion/build/CMakeFiles/rebuild_cache.dir
+/home/dar/Desktop/WLX2022-master/Test/CameraAdjustion/build/CMakeFiles/edit_cache.dir
+/home/dar/Desktop/WLX2022-master/Test/CameraAdjustion/build/CMakeFiles/Test.dir

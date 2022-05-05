@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dar/Desktop/WLX2022-master/Test/CameraAdjustion/build",
+  "command": "/usr/bin/c++   -I/home/dar/Desktop/WLX2022-master/Test/CameraAdjustion/include -isystem /usr/include/opencv4  -g   -o CMakeFiles/Test.dir/CameraAdjustion.cpp.o -c /home/dar/Desktop/WLX2022-master/Test/CameraAdjustion/CameraAdjustion.cpp",
+  "file": "/home/dar/Desktop/WLX2022-master/Test/CameraAdjustion/CameraAdjustion.cpp"
+}
+]

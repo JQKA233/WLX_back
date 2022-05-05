@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dar/Desktop/WLX2022-master/Test/getTestData/build",
+  "command": "/usr/bin/c++   -I/home/dar/Desktop/WLX2022-master/Test/getTestData/include -isystem /usr/include/opencv4  -g   -o CMakeFiles/Test.dir/getTestData.cpp.o -c /home/dar/Desktop/WLX2022-master/Test/getTestData/getTestData.cpp",
+  "file": "/home/dar/Desktop/WLX2022-master/Test/getTestData/getTestData.cpp"
+}
+]

@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/Main.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/Main.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/Main.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libBase/FirstProcess.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libBase/FirstProcess.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libBase/FirstProcess.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libBase/SecondProcess.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libBase/SecondProcess.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libBase/SecondProcess.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libVision/MonoDistance/Mono.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libVision/MonoDistance/Mono.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libVision/MonoDistance/Mono.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libSolver/Predict/Predict.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libSolver/Predict/Predict.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libSolver/Predict/Predict.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libBase/Common.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libBase/Common.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libBase/Common.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libVision/ArmorDetect/ArmorDetect.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libVision/ArmorDetect/ArmorDetect.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libVision/ArmorDetect/ArmorDetect.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libCamera/Camera.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libCamera/Camera.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libCamera/Camera.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libVision/FuwenDetect/FuwenDetect.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libVision/FuwenDetect/FuwenDetect.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libVision/FuwenDetect/FuwenDetect.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libSolver/PID/PID.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libSolver/PID/PID.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libSolver/PID/PID.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libHardware/Transport/Serial.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libHardware/Transport/Serial.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libHardware/Transport/Serial.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libSolver/Pose/Pose.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libSolver/Pose/Pose.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libSolver/Pose/Pose.cpp"
+},
+{
+  "directory": "/home/dar/Desktop/WLX/WLX2022-master/build",
+  "command": "/usr/bin/g++  -DPREDICT_CFG=\\\"/home/dar/Desktop/WLX/WLX2022-master/Predict.yaml\\\" -I/home/dar/Desktop/WLX/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libSolver/Pose/AngleSolver.cpp.o -c /home/dar/Desktop/WLX/WLX2022-master/libSolver/Pose/AngleSolver.cpp",
+  "file": "/home/dar/Desktop/WLX/WLX2022-master/libSolver/Pose/AngleSolver.cpp"
+}
+]

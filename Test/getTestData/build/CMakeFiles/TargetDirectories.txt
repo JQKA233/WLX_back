@@ -1,0 +1,3 @@
+/home/dar/Desktop/WLX2022-master/Test/getTestData/build/CMakeFiles/rebuild_cache.dir
+/home/dar/Desktop/WLX2022-master/Test/getTestData/build/CMakeFiles/edit_cache.dir
+/home/dar/Desktop/WLX2022-master/Test/getTestData/build/CMakeFiles/Test.dir
